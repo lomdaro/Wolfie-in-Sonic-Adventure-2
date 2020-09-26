@@ -1,4 +1,5 @@
-### Wolfie in Sonic Adventure 2
+# Wolfie in Sonic Adventure 2
+Sonic Adventure 2 received recently developed modding tools, allowing for model swaps. Here, we swapped Sonic for Stony Brook's iconic mascot, Wolfie the Seawolf!
 ## Inspiration
 I was bouncing ideas with a friend of mine over Discord in order to find a great and funny idea we could pull off. My original idea was to do a sprite swap of Sonic with Wolfie, when my friend suggested a model swap of Sonic Adventure 2. With that, I got to work.
 ## What it does
@@ -14,4 +15,4 @@ Not only am I incredibly proud of Colin's work towards making Wolfie fit the Son
 As it turns out, modding games with very few tools and very little documentation proves to be really difficult! I learned more about this game's development than I would've ever have liked to.
 ## What's next for Wolfie in Sonic Adventure 2!
 After the hackathon I will be updating the project so that Wolfie himself has a fixed eye and proper rigging. As for the crashes, I'll be looking into what can be done to avoid this in the future. In the meantime, I'm fairly happy with the end result, even if it's a bit of nightmare fuel.
-# Wolfie-in-Sonic-Adventure-2
+
