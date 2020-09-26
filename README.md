@@ -1,5 +1,7 @@
 # Wolfie in Sonic Adventure 2
 Sonic Adventure 2 received recently developed modding tools, allowing for model swaps. Here, we swapped Sonic for Stony Brook's iconic mascot, Wolfie the Seawolf!
+## How to Install
+Download the [SA2ModManager](http://info.sonicretro.org/SA2_Mod_Loader), unzip WolfieSonic.zip and place the folder in your Sonic Adventure 2/mods folder. This mod is currently in VERY early access and as such is prone to crashes and graphical bugs. Be warned!
 ## Inspiration
 I was bouncing ideas with a friend of mine over Discord in order to find a great and funny idea we could pull off. My original idea was to do a sprite swap of Sonic with Wolfie, when my friend suggested a model swap of Sonic Adventure 2. With that, I got to work.
 ## What it does
